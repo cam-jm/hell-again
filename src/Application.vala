@@ -6,7 +6,7 @@ public class MyApp : Gtk.Application {
         );
     }
     
-    protetced override void activate () {
+    protected override void activate () {
     
         var label = new Gtk.Label ("Fancy meeting you here!");
     
@@ -18,5 +18,9 @@ public class MyApp : Gtk.Application {
         
         main_window.add (label);
         main_window.show_all ();
+    }
+    
+    public static int main (string[] args) {
+        return new MyApp ().run (args);
     }
 }
