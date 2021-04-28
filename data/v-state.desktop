@@ -1,8 +1,8 @@
 [Desktop Entry]
 Name=V-State
 GenericName=laptop control cneter
-Comment=Proves that we can use Vala and Gtk
-Categories=Utility;Education;
+Comment=Basic VAIO laptop control center
+Categories=HardwareSettings;System;
 Exec=com.github.cam-jm.hello-again
 Icon=com.github.cam-jm.hello-again
 Terminal=false
