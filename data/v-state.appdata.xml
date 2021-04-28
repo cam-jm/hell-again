@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2019 Your Name <you@email.com> -->
+<component type="desktop">
+    <id>com.github.cam-jm.vstate</id>
+    <metadata_license>MIT</metadata_license>
+    <name>V-State</name>
+    <summary>A basic control center to manage a VAIO laptop</summary>
+    <description>
+        <p></p>
+    </description>
+    <custom>
+        <value key="x-appcenter-color-primary">#fafafa</value>
+        <value key="x-appcenter-color-primary-text">#fafafa</value>
+        <value key="x-appcenter-suggested-price">0</value>
+    </custom>
+</component>
