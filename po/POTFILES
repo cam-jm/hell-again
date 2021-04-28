@@ -1,0 +1,3 @@
+src/Application.vala
+data/v-state.desktop.in
+data/v-state.appdata.xml.in

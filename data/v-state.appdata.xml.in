@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Copyright 2019 Your Name <you@email.com> -->
 <component type="desktop">
-    <id>com.github.cam-jm.vstate</id>
+    <id>com.github.cam-jm.v-state</id>
     <metadata_license>MIT</metadata_license>
     <name>V-State</name>
     <summary>A basic control center to manage a VAIO laptop</summary>

@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.cam-jm.v-state package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.cam-jm.v-state\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-29 00:32+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/Application.vala:11
+msgid "Fancy meeting you here!"
+msgstr ""
+
+#: src/Application.vala:16
+msgid "Hello world!"
+msgstr ""
+
+#: data/v-state.desktop.in:3 data/v-state.appdata.xml.in:6
+msgid "V-State"
+msgstr ""
+
+#: data/v-state.desktop.in:4
+msgid "laptop control cneter"
+msgstr ""
+
+#: data/v-state.desktop.in:5
+msgid "Basic VAIO laptop control center"
+msgstr ""
+
+#: data/v-state.desktop.in:8
+msgid "com.github.cam-jm.v-state"
+msgstr ""
+
+#: data/v-state.desktop.in:11
+msgid "V;State;VAIO;"
+msgstr ""
+
+#: data/v-state.appdata.xml.in:7
+msgid "A basic control center to manage a VAIO laptop"
+msgstr ""
