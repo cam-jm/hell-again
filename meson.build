@@ -1,5 +1,5 @@
 # project name and programming language
-project('com.github.cam-jm.hello-again', 'vala', 'c')
+project('com.github.cam-jm.v-state', 'vala', 'c')
 
 # Create a new executable, list the files we want to compile, list the dependencies we need, and install
 executable(
@@ -13,14 +13,14 @@ executable(
 
 # Install our .desktop file so the Applications Menu will see it
 install_data(
-    join_paths('data', 'hello-again.desktop'),
+    join_paths('data', 'v-state.desktop'),
     install_dir: join_paths(get_option('datadir'), 'applications'),
     rename: meson.project_name() + '.desktop'
 )
 
 # Install our .appdata.xml file so AppCenter will see it
 install_data(
-    join_paths('data', 'hello-again.appdata.xml'),
+    join_paths('data', 'v-state.appdata.xml'),
     install_dir: join_paths(get_option('datadir'), 'metainfo'),
     rename: meson.project_name() + '.appdata.xml'
 )
